@@ -1,5 +1,6 @@
 import java.util.*;
 //place some conflicts 
+//some different stuff onthe same line 
 public class magicSquare{
   public static ArrayList<Integer> list = new ArrayList<Integer>();
   public static boolean testDone = false;
